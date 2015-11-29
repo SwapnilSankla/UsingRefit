@@ -1,0 +1,12 @@
+D:\Study\UsingRefit\UsingRefit_Client\bin\Debug\UsingRefit_Client.exe.config
+D:\Study\UsingRefit\UsingRefit_Client\bin\Debug\UsingRefit_Client.exe
+D:\Study\UsingRefit\UsingRefit_Client\bin\Debug\UsingRefit_Client.pdb
+D:\Study\UsingRefit\UsingRefit_Client\bin\Debug\Newtonsoft.Json.dll
+D:\Study\UsingRefit\UsingRefit_Client\bin\Debug\Refit.dll
+D:\Study\UsingRefit\UsingRefit_Client\bin\Debug\Newtonsoft.Json.xml
+D:\Study\UsingRefit\UsingRefit_Client\bin\Debug\Refit.pdb
+D:\Study\UsingRefit\UsingRefit_Client\obj\Debug\UsingRefit_Client.csprojResolveAssemblyReference.cache
+D:\Study\UsingRefit\UsingRefit_Client\obj\Debug\UsingRefit_Client.exe
+D:\Study\UsingRefit\UsingRefit_Client\obj\Debug\UsingRefit_Client.pdb
+D:\Study\UsingRefit\UsingRefit_Client\bin\Debug\Autofac.dll
+D:\Study\UsingRefit\UsingRefit_Client\bin\Debug\Autofac.xml
